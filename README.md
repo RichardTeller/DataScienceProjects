@@ -2,6 +2,7 @@
 
 <br>
 Within this repository lies all of the data science projects I've done.
+
 <br>
 This includes:
 
